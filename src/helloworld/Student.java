@@ -5,7 +5,7 @@
 package arraydemo;
 
 /**
- *
+ *This is for fetch and ,merge
  * @author dhira
  */
 public class Student {
